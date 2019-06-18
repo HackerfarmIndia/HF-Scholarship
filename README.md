@@ -6,7 +6,7 @@ One should have passion for programming and can demonstrate by submission of the
 
 ### WHAT TO DO? Excercises
 - Build a simple webpage using HTML & CSS
-- Create a Git & GitHub account and put your code on it
+- Install Git & Create a GitHub account and put your code on it
 - Finish Introduction to JavaScript on Codecademy https://www.codecademy.com/learn/introduction-to-javascript
 
 ### HOW TO SUBMIT? Submission
