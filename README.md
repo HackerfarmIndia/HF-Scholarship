@@ -2,6 +2,7 @@
 Scholarship for HackerFarm Participants (June - December)
 
 ## WHO? The Eligibility
+Only and only if someone cannot afford to cover his/her own living expenses, should send us mail for it.
 One should have passion for programming and can demonstrate by submission of these following excercises.
 
 ### WHAT TO DO? 
