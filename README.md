@@ -1,9 +1,5 @@
-# HF-Scholarship
-Scholarship for HackerFarm Participants (June - December)
-
-## WHO? The Eligibility
-Only and only if someone cannot afford to cover his/her own living expenses, should send us mail for it.
-One should have passion for programming and can demonstrate by submission of these following excercises.
+# HackerFarm Prep-Work & Extra Prep-Work
+Scholarship procedure for HackerFarm Participants (January - March 2020)
 
 ### WHAT TO DO? 
 
@@ -11,6 +7,12 @@ One should have passion for programming and can demonstrate by submission of the
 - Build a simple webpage using HTML & CSS
 - Install Git & Create a GitHub account and put your code on it
 - Finish Introduction to JavaScript on Codecademy https://www.codecademy.com/learn/introduction-to-javascript
+
+###### Web Development EXTRA-PREP Excercises (for SCHOLARSHIP upto 25% on HackerFarm Program Fee)
+- Learn JavaScript & DOM Manipulation 
+- Build Pure/Vanilla JavaScript ToDo App with localStorage API & Push it to GitHub
+- Do HackerRank Challenges on & get 1000 points on JavaScript Challenges
+
 
 ###### Data Science Prep Excercises
 - Finish Python on Codecademy https://www.codecademy.com/learn/learn-python-3
